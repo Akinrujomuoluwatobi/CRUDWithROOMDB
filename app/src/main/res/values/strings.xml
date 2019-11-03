@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FintrakHR</string>
+    <string name="action_settings">Settings</string>
+    <string name="createstaff">Create Staff</string>
+    <string name="staffName">Staff Name</string>
+    <string name="staff_position">Staff Position</string>
+    <string name="delete">Delete</string>
+    <string name="update">Update</string>
+    <string name="salary">Staff Salary</string>
+</resources>
